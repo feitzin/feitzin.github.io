@@ -1,0 +1,105 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Open+Sans:300&display=swap');
+
+/* main body */
+body {
+	background-color: #101010;
+	color: #f3f3f3;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	height: 100%;
+	margin: 10px;
+	padding-left: 128px;
+	padding-right: 256px;
+}
+
+main {
+	margin: 32px;
+}
+
+/* links */
+a {
+	text-decoration: none;
+	color: #60c8ff;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #c0ffee;
+}
+
+/*main a:visited {
+	text-decoration: none;
+	color: #d0b0ff;
+}*/
+
+main a:active {
+	text-decoration: none;
+	color: #80ffa0;
+}
+
+/*header a {
+	text-decoration: none;
+	color: #40c0ff;
+}*/
+
+/*nav a {
+	text-decoration: none;
+	color: #a0e0ff;
+}*/
+
+
+/* headings */
+
+h1 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 5px;
+}
+
+/* header and footer */
+
+header {
+	font-family: 'Noto Sans', sans-serif;
+	width: 100%;
+}
+
+nav {
+	width: 100%;
+	padding: 16px;
+	border-top: 1px solid #60c0ff;
+	border-bottom: 1px solid #60c0ff;
+	/*border-top: 1px solid #a0e0ff;
+	border-bottom: 1px solid #a0e0ff;*/
+}
+
+.nav {
+	font-size: 18px;
+	padding-left: 32px;
+	padding-right: 32px;
+	/*border-left: 1px solid #60c8ff;
+	border-right: 1px solid #60c8ff;*/
+	margin: 10px;
+}
+
+.selected {
+	background: #c0ffee;
+}
+
+footer {
+	background: #101010;
+	font-size: 14px;
+	position: fixed;
+	bottom: 0;
+	width: 80%;
+	height: 80px;
+	border-top: 1px solid gray;
+	padding-left: 32px;
+	overflow-y: scroll;
+}
+
+#footer-buffer {
+	height: 80px;
+}
