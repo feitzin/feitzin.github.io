@@ -3,3 +3,4 @@ email: <first name, no hyphen> (at) cs.columbia.edu
 description: Fei-Tzin's website.
 twitter_username: feitzin
 github_username: feitzin
+theme: jekyll-theme-minimal
