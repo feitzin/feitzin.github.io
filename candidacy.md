@@ -2,7 +2,7 @@
 title: Candidacy Exam
 layout: notes
 ---
-I presented my candidacy exam in May 2019. The overall theme was word embeddings; the specific topics were word embedding methods, analysis of word embeddings, and word embedding theory.
+I presented my candidacy exam on May 1, 2019. The overall theme was word embeddings; the specific topics were word embedding methods, analysis of word embeddings, and word embedding theory.
 
 Slides from my exam can be found [here](/files/candidacy.pdf). References are listed below. The link in the title of each paper is to the version available at the time I was preparing for the exam. For preprints I used in the exam that were later published, a link to the publication version is also provided.
 
