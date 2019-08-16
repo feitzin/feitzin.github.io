@@ -1,5 +1,6 @@
 ---
 title: Research
+layout: site
 ---
 
 ### What do I do?
@@ -18,4 +19,4 @@ Philipp Blandfort, Desmond Patton, William Frey, Svebor Karaman, Surabhi Bhargav
 
 #### 2018
 
-Serina Chang, Ruiqi Zhong, Ethan Adams, Fei-Tzin Lee, Siddharth Varia, Desmond Patton, William Frey, Chris Kedzie, and Kathleen McKeown. [Detecting Gang-Involved Escalation on Social Media Using Context.](https://www.aclweb.org/anthology/D18-1005)
+Serina Chang, Ruiqi Zhong, Ethan Adams, Fei-Tzin Lee, Siddharth Varia, Desmond Patton, William Frey, Chris Kedzie, and Kathleen McKeown. [Detecting Gang-Involved Escalation on Social Media Using Context.](https://www.aclweb.org/anthology/D18-1005/)

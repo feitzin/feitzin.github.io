@@ -1,5 +1,6 @@
 ---
 title: Fei-Tzin Lee
+layout: site
 ---
 
 ## Hey!

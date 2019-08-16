@@ -1,5 +1,6 @@
 ---
 title: Notes
+layout: site
 ---
 
 Information on my candidacy exam can be found [here](candidacy.html).

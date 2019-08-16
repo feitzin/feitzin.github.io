@@ -1,5 +1,6 @@
 ---
 title: About Me?
+layout: site
 ---
 
 Hello! I'm Fei-Tzin. That's pronounced FAY-tzin, with the same 'tz' as in "blitz".
