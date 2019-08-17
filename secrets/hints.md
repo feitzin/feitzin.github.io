@@ -11,7 +11,11 @@ Those who hold a place in my heart, speak your name, and think fondly of the fon
 
 <br/>
 
+Those who seek challenge and adventure are advised to begin their quest at the entrance.
+
+<br/>
+
 Friends and strangers alike, here are the questions whose answers you will find in these halls.
 
-What are the colors of the alphabet? <br/>
-What illuminates the darkness that eyes cannot see?
+What colors are words?<br/>
+What illuminates the darkness which eyes cannot see?
