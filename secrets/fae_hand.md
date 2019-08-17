@@ -1,5 +1,6 @@
 ---
 title: Fae Hand
+layout: display
 ---
 
 ![faehand](/assets/img/fae_hand.png){:height="600px"}

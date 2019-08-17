@@ -1,5 +1,6 @@
 ---
 title: Hope
+layout: display
 ---
 
 ![hope](/assets/img/hope.png){:height="650px"}

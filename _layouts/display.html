@@ -7,23 +7,17 @@
     <link rel="stylesheet" href="{{site.url}}/assets/css/style.css">
 	<link rel="shortcut icon" type="image/png" href="{{site.url}}/assets/img/favicon.png">
     
-    <title>{% if page.title %}{{ page.title }} | Notes</title>
+    <title>{% if page.title %}{{ page.title }} | {{site.title}}{% else %}{{ site.title }}{% endif %}</title>
   </head>
 
   <body>
 
 	{% include header.html %}
 
-	<main>
-	  <p><a href="{{site.url}}/notes.html" class="backlink">Back to Notes</a></p>
-	  
+	<main class='display'>
 	  {{content}}
 	</main>
 
-	<!--<p id="footer-buffer"></p>
-
-	{% include footer.html %}-->
-	
   </body>
 
 </html>

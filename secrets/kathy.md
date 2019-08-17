@@ -1,5 +1,6 @@
 ---
 title: Kathy
+layout: display
 ---
 
 ![kathy](/assets/img/kathy.png){:height="600px"}

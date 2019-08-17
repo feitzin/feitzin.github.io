@@ -1,5 +1,6 @@
 ---
 title: Nakul
+layout: display
 ---
 
 ![nakul](/assets/img/nakul.png){:height="600px"}
