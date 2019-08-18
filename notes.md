@@ -9,4 +9,4 @@ The notes below are intended to serve as a reference for useful things whose det
 
 These notes are not guaranteed to be complete or mistake-free. Read at your own peril.
 
-* [Contextualized embeddings](/notes/contextualized.html)
+[STILL UNDER CONSTRUCTION, SORRY]
