@@ -17,5 +17,5 @@ Those who seek challenge and adventure are advised to begin their quest at the e
 
 Friends and strangers alike, here are the questions whose answers you will find in these halls.
 
-What colors are words?<br/>
+What colors stain the letters on this page?<br/>
 What illuminates the darkness which eyes cannot see?
