@@ -5,7 +5,7 @@ layout: site
 
 ### What do I do?
 
-My current interests include integrating continuous and discrete semantic representations and attaining a deeper understanding of the properties of continuous representations. In the past, I have worked on the [Columbia SAFE Lab](https://safelab.socialwork.columbia.edu)'s [gang violence prevention project](https://safelab.socialwork.columbia.edu/research-projects/natural-language-processing-tools-gang-violence-prevention) as well as on analyzing therapeutic conversation.
+I am generally interested in semantic representations. My current interests include how we can integrate continuous and discrete semantic representations. In the past, I have worked on the [Columbia SAFE Lab](https://safelab.socialwork.columbia.edu)'s [gang violence prevention project](https://safelab.socialwork.columbia.edu/research-projects/natural-language-processing-tools-gang-violence-prevention) as well as on analyzing therapeutic conversation.
 
 <br/><br/>
 

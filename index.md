@@ -5,7 +5,7 @@ layout: site
 
 ## Hey!
 
-![profile](/assets/img/profile.png){:height="256px" width="256px"}
+![A scribbled likeness of myself.](/assets/img/profile.png){:height="256px" width="256px"}
 
 I'm [Fei-Tzin](about.html), a fourth-year PhD candidate in [NLP at Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi) advised by [Kathy McKeown](http://www.cs.columbia.edu/~kathy/).
 
