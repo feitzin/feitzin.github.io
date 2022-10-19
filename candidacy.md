@@ -20,7 +20,7 @@ Slides from my exam can be found [here](/files/candidacy.pdf). References are li
 
 [Word Representations via Gaussian Embedding](https://arxiv.org/pdf/1412.6623.pdf). Luke Vilnis and Andrew McCallum. ICLR 2015.
 
-[Predicting human similarity judgments with distributional models: The value of word associations](https://aclweb.org/anthology/C16-1175). Simon De Deyne, Amy Perfors and Daniel Navarro. COLING 2016.
+[Predicting human similarity judgments with distributional models: The value of word associations](https://aclweb.org/anthology/C16-1175). Simon De Deyne, Andrew Perfors and Daniel Navarro. COLING 2016.
 
 [Poincaré Embeddings for Learning Hierarchical Representations](https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf). Maximilian Nickel and Douwe Kiela. NeurIPS 2017.
 
