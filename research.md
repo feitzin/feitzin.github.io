@@ -12,7 +12,7 @@ I am generally interested in semantic representations. My thesis work explores h
 ### Publications
 
 #### 2022
-Fei-Tzin Lee, Miguel Ballesteros, Feng Nan, Kathleen McKeown. Using Structured Content Plans for Fine-grained Syntactic Control in Pretrained Language Model Generation (accepted to COLING 2022).
+Fei-Tzin Lee, Miguel Ballesteros, Feng Nan, Kathleen McKeown. [Using Structured Content Plans for Fine-grained Syntactic Control in Pretrained Language Model Generation](https://aclanthology.org/2022.coling-1.514/).
 
 #### 2021
 Fei-Tzin Lee, Chris Kedzie, Nakul Verma, Kathleen McKeown. [An analysis of document graph construction methods for AMR summarization](https://arxiv.org/abs/2111.13993) (preprint).
