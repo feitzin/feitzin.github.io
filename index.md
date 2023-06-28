@@ -7,7 +7,7 @@ layout: site
 
 ![A scribbled likeness of myself.](/assets/img/profile.png){:height="256px" width="256px"}
 
-I'm [Fei-Tzin](about.html), a final-year PhD candidate in [NLP at Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi). I am advised by [Kathy McKeown](http://www.cs.columbia.edu/~kathy/). I recently returned from a yearlong internship with the AWS Comprehend team in NYC.
+I'm [Fei-Tzin](about.html), a final-year PhD candidate in [NLP at Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi). I am advised by [Kathy McKeown](http://www.cs.columbia.edu/~kathy/). I am currently on the job market!
 
 My thesis work explores applications of structured semantic representations of text. My [candidacy exam](candidacy.html) was on word embeddings.
 
