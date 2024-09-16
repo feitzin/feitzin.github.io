@@ -7,7 +7,7 @@ layout: site
 
 ![A scribbled likeness of myself.](/assets/img/profile.png){:height="256px" width="256px"}
 
-I'm [Fei-Tzin](about.html). I recently defended my thesis in [the NLP group at Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi). I have had the good fortune to be advised by [Kathy McKeown](http://www.cs.columbia.edu/~kathy/).
+I'm [Fei-Tzin](about.html). I recently defended my thesis in [NLP at Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi). I have had the good fortune to be advised by [Kathy McKeown](http://www.cs.columbia.edu/~kathy/).
 
 My thesis work explores structured semantic representations of text as an interactive interface to content. My [candidacy exam](candidacy.html) was on word embeddings.
 
