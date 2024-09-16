@@ -7,8 +7,10 @@ Information on my candidacy exam can be found [here](candidacy.html).
 
 I gave a guest lecture on word embeddings for [Kathy McKeown's section of NLP](http://www.cs.columbia.edu/~kathy/NLP/2019/) in the Fall 2019 semester. Slides can be found [here](files/embeddings-101.pdf).
 
-<!--The notes below are intended to serve as a reference for useful things whose details I may later forget. They should be easier to access here than in the unknown depths of my bookshelf towards which all my physical papers tend to float after a while.
+My thesis defense slides can be found [here](files/defense.pdf).
 
-These notes are not guaranteed to be complete or mistake-free. Read at your own peril.
+<!--Some notes on miscellaneous topics can be found below. They are less a complete reference and more a summary of what I find interesting about the topic. The aim is to be clear enough that my non-NLP friends can understand most of what's going on, but thorough enough to later remind myself of the useful details I'm sure I will forget.
+
+Disclaimer: I make plenty of mistakes in daily life and I am sure that extends to these notes as well. Read at your own peril.
 
 [STILL UNDER CONSTRUCTION, SORRY]-->
