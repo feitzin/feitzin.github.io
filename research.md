@@ -5,7 +5,7 @@ layout: site
 
 ### What do I do?
 
-I am generally interested in semantic representations. My thesis work explores how we can use explicit semantic representations at intermediate stages of a neural pipeline. In the past, I have worked on the [Columbia SAFE Lab](https://safelab.socialwork.columbia.edu)'s [gang violence prevention project](https://safelab.socialwork.columbia.edu/research-projects/natural-language-processing-tools-gang-violence-prevention) as well as on analyzing therapeutic conversation.
+I am generally interested in how we can represent meaning in ways that are both useful and illuminating. My thesis work focused on using explicit semantic representations to make neural language models interpretabile and controllable. I have also worked on the [Columbia SAFE Lab](https://safelab.socialwork.columbia.edu)'s [gang violence prevention project](https://safelab.socialwork.columbia.edu/research-projects/natural-language-processing-tools-gang-violence-prevention) as well as on analyzing therapeutic conversation.
 
 <br/><br/>
 
